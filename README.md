@@ -1,6 +1,6 @@
 # Quick Start
 
-0. target System
+0. Target System
 - Linux Machine that can download docker
 - Can use Nvidia GPU
 
